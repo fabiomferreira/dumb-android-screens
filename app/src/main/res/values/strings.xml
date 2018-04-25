@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTeacherEx</string>
+    <string name="title_activity_instrutor">Instrutor</string>
+    <string name="large_text">
+        Conhecimentos e Habilidades: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum quis sapien volutpat, mollis velit sit amet, efficitur urna.
+        Suspendisse eget velit ex. Etiam accumsan nisi
+        sit amet hendrerit sollicitudin. Aliquam sollicitudin, sem id
+        pharetra pretium, dui augue rhoncus mauris, sed ultrices enim
+        tortor sit amet mi. Sed lacinia dictum ullamcorper.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_aluno">CadastroAlunoActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
