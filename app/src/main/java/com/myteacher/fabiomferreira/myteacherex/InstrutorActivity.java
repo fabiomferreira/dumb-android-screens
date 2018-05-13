@@ -31,8 +31,8 @@ public class InstrutorActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-//                Intent intent = new Intent(InstrutorActivity.this, CadastroAlunoActivity.class);
-//                startActivity(intent);
+                Intent intent = new Intent(InstrutorActivity.this, CadastroAlunoActivity.class);
+                startActivity(intent);
             }
         });
     }
