@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "698741690801",
+    "firebase_url": "https://my-teacher-77c40.firebaseio.com",
+    "project_id": "my-teacher-77c40",
+    "storage_bucket": "my-teacher-77c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698741690801:android:ef29387c77a34ed6",
+        "android_client_info": {
+          "package_name": "com.myteacher.fabiomferreira.myteacherex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698741690801-mclqasbnp3i3i6iki9hnjibk98lct92e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "698741690801-mclqasbnp3i3i6iki9hnjibk98lct92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fa2LXOzMeBm90Z3qt-1vhJbJqED35x4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
