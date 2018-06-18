@@ -18,10 +18,11 @@
         app:srcCompat="@mipmap/ic_launcher" />
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Instrutor: Fulano de Tal"
+        android:text="Instrutor: "
         android:textSize="20sp"/>
 
     <TextView
@@ -29,7 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Valor: R$ 50 hora/aula"
+        android:text="Valor: "
         android:textSize="20sp"/>
 
 

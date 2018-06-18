@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "698741690801-fjjm1hpevi732017us91omporii6qb4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myteacher.fabiomferreira.myteacherex",
+            "certificate_hash": "355581b6500ab63d5ceab9b4e1b465e055517181"
+          }
+        },
+        {
           "client_id": "698741690801-mclqasbnp3i3i6iki9hnjibk98lct92e.apps.googleusercontent.com",
           "client_type": 3
         },
@@ -33,8 +41,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698741690801-mclqasbnp3i3i6iki9hnjibk98lct92e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
